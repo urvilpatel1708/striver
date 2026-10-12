@@ -1,0 +1,24 @@
+     if operations_required > k:
+                    left = mid + 1
+                
+                else:
+                    best = mid
+                    right = mid - 1
+                
+            return i - best + 1
+        
+        nums.sort()
+        prefix = [nums[0]]
+
+        for i in range(1, len(nums)):
+            prefix.append(nums[i] + prefix[-1])
+        
+        ans = 0
+
+        for i in range(len(nums)):
+            ans = max(ans, check(i))
+        
+        return ans
+        
+        
+        
