@@ -1,0 +1,24 @@
+{
+  "title": "3Sum",
+  "titleSlug": "3sum",
+  "frontendQuestionId": "15",
+  "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-15T04:37:55.879Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-15T04:37:57.745Z"
+}
