@@ -1,0 +1,23 @@
+{
+  "title": "Koko Eating Bananas",
+  "titleSlug": "koko-eating-bananas",
+  "frontendQuestionId": "875",
+  "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-16T11:37:21.047Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-16T11:37:22.962Z"
+}
