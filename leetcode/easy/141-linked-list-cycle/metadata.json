@@ -1,0 +1,25 @@
+{
+  "title": "Linked List Cycle",
+  "titleSlug": "linked-list-cycle",
+  "frontendQuestionId": "141",
+  "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-17T14:48:53.065Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-17T14:48:56.730Z"
+}
