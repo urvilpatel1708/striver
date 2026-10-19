@@ -1,0 +1,24 @@
+{
+  "title": "Add Two Numbers",
+  "titleSlug": "add-two-numbers",
+  "frontendQuestionId": "2",
+  "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-19T17:23:51.486Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-19T17:23:53.347Z"
+}
