@@ -1,0 +1,24 @@
+{
+  "title": "Search a 2D Matrix",
+  "titleSlug": "search-a-2d-matrix",
+  "frontendQuestionId": "74",
+  "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-20T17:11:04.794Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-20T17:11:06.908Z"
+}
